@@ -51,6 +51,7 @@
     "./typed-router.d.ts",
     "./vite.config.*",
     "./env.d.ts",
+    "./vite-env.d.ts",
     "./shims.d.ts",
     "./src/**/*",
     "./src/**/*.vue",
